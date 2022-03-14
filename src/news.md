@@ -1,7 +1,7 @@
 
 # Code examples
 
-### Wrap Markdown in `<div>` Tag
+### Wrap Markdown in "<div>" Tag
 You can start using a div tag, but not really close it.
 
 ```
@@ -35,7 +35,7 @@ Würde hier gerne wieder essen gehen. Aber dafür mit einer anderen Beilage. Die
 
 <div class="myDiv">
 This is my text inside the image
-![Yosemite](file:///home/lwi/Documents/lowdown-tests/dst/yosemite.png){.class #id}
+![Yosemite](file:///home/lwi/projects/my-minimal-blog/dst/yosemite.png){.class #id}
 
 
 <div class="anotherDiv">
